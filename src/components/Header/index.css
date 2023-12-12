@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.head-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+  margin: 12px;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+  margin: 12px;
+}
+
+.head-para {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin: 12px;
+  list-style-type: none;
+}
+
+.nav-para {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin: 12px;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+}
+

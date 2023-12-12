@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.home-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+  margin: 12px;
+}
+
+.home-head {
+  color: #6d396b;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 12px;
+  font-family: 'Roboto';
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+}
